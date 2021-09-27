@@ -4,3 +4,5 @@ This is an app created by three great individuals. It is app built using flutter
 
 
 *For the full description and detail, check out the technical report pdf file!
+
+* For Screenshots of the app, check out the screenshot folder!
